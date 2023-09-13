@@ -3,6 +3,10 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+main {
+    margin: 20px;
+}
+
 .orla {
     display: flex;
     flex-direction: column;
@@ -12,11 +16,10 @@ body {
 .bica {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-end;
     float: right;
-    
 }
 
-.foto-bica {
-
+h1 {
+    margin: 10px 0 10px 0;
 }
