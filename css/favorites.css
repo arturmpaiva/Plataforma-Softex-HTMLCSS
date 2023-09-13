@@ -7,13 +7,13 @@ main {
     margin: 20px;
 }
 
-.orla {
+#orla {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.bica {
+#bica {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
