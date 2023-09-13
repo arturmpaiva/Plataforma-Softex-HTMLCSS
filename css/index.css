@@ -1,0 +1,55 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+h1 {
+    margin: 20px 0 20px 0;
+}
+
+main {
+    margin-left: 30px;
+}
+
+.sobre {
+    display: flex;
+    margin-top: 20px;
+}
+
+.resumo-farol {
+    width: 60%;
+    font-size: 1.1rem;
+}
+
+.vista-aerea {
+    margin-left: 50px;
+}
+
+.favorites-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0 20px 0;
+}
+
+h3 {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
